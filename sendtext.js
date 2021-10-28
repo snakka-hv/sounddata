@@ -1,7 +1,7 @@
 var TextTransmitter = (function() {
     Quiet.init({
         profilesPrefix: "./",
-        memoryInitializerPrefix: "/",
+        memoryInitializerPrefix: "./",
         libfecPrefix: "./"
     });
     var btn;
